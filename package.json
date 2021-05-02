@@ -1,0 +1,26 @@
+{
+  "name": "mixandthrash",
+  "version": "1.0.0",
+  "description": "A sign-up for Clipnote Server!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustAHippo/mixandthrash.git"
+  },
+  "author": "Drowzee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustAHippo/mixandthrash/issues"
+  },
+  "homepage": "https://github.com/JustAHippo/mixandthrash#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7",
+    "uuid": "^8.3.2"
+  }
+}
